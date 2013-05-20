@@ -1,0 +1,21 @@
+{
+  "name": "generator-roots",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "konitter",
+  "description": "Yeoman Generator for Roots",
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/konitter/generator-roots.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.10.2"
+  }
+}
