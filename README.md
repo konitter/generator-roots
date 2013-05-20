@@ -17,3 +17,4 @@ generator-roots is a set of generators for yeoman, that can help create rapid pr
 * Install yeoman-generator: ``cd myapp/node_modules/generator-roots; npm install``
 * Run: ``cd ../../; yo roots``
 * Select one of frameworks 'Bootstrap' or 'Foundation' for Roots.
+* Then '[Rootsstrap](https://github.com/konitter/rootsstrap)' or '[Rootsfoundation](https://github.com/konitter/rootsfoundation)' is copied to ``myapp``.
