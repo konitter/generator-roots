@@ -1,7 +1,7 @@
 Yeoman Generator for Roots
 ========================================
 
-generator-roots is a set of generators for yeoman, that can help create rapid prototypes for Roots with a Bootstrap/Foundation framework.
+generator-roots is a set of generators for yeoman, that can help create rapid prototypes for Roots with a [Bootstrap](http://twitter.github.io/bootstrap/) / [Foundation](http://foundation.zurb.com/) framework.
 
 ## Requirements
 
@@ -16,3 +16,4 @@ generator-roots is a set of generators for yeoman, that can help create rapid pr
 * Install this repository: ``git clone git://github.com/konitter/generator-roots.git myapp/node_modules``
 * Install yeoman-generator: ``cd myapp/node_modules/generator-roots; npm install``
 * Run: ``cd ../../; yo roots``
+* Select one of frameworks 'Bootstrap' or 'Foundation' for Roots.
